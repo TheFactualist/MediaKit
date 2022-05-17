@@ -1,5 +1,7 @@
 # Factualist Brand Kit
 
+*Get the official Factualist brand resources and learn about our asset usage guidelines.*
+
 This package contains [Factualist.com](https://www.factualist.com)'s brand assets, graphical resources, official logos, and other visual design materials.
 
 ## Package Contents
